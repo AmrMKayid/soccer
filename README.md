@@ -8,7 +8,7 @@
 
 # TODO: 
 
-- [ ] Remove time from db.player birthday  || convert to age
+- [x] Remove time from db.player birthday  || convert to age
 - [ ] check player_fifa_api_id if needed?
 
 
